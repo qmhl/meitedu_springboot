@@ -12,7 +12,7 @@ public class App {
 
 	@RequestMapping("/")
 	public String index() {
-		return "每特教育独创基于 Jenkins+docker部署SpringBoot项目QQ644064779.....www.mayikt.com+jenkins";
+		return "每特教育独创基于 Jenkins+docker部署SpringBoot项目.....www.mayikt.com+jenkins";
 	}
 
 	public static void main(String[] args) {
